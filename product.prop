@@ -1,0 +1,30 @@
+# Bluetooth
+ro.bluetooth.a2dp_offload.supported=false
+
+# Miscellaneous
+dalvik.vm.heapminfree=2m
+dalvik.vm.heaptargetutilization=0.5
+persist.miui.density_v2=440
+persist.miui.extm.enable=1
+persist.miui.miperf.enable=true
+persist.sys.gz.enable=true
+persist.sys.minfree_6g=73728,92160,110592,340000,1282868,1677312
+persist.sys.minfree_8g=73728,92160,110592,340000,1677312,2064384
+persist.sys.minfree_def=73728,92160,110592,340000,510000,645120
+persist.sys.miui_sptm.enable=true
+persist.sys.miui_sptm.enable_pl_type=2
+persist.sys.preload.enable=true
+persist.sys.spc.cpulimit.enabled=true
+ro.com.google.acsa=true
+ro.com.google.gmsversion=12_202207
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/
+ro.config.alarm_alert=Fireflies.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.ringtone=MiRemix.ogg
+ro.miui.build.region=global
+ro.miui.google.csp=true
+ro.opa.eligible_device=true
+ro.product.ab_ota_partitions=boot,system,vendor
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+
