@@ -12,12 +12,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit from missi device
-$(call inherit-product, device/xiaomi/missi/device.mk)
+$(call inherit-product, device/xiaomi/rock/device.mk)
 
-PRODUCT_DEVICE := missi
-PRODUCT_NAME := lineage_missi
-PRODUCT_BRAND := alps
-PRODUCT_MODEL := missi
+PRODUCT_DEVICE := rock
+PRODUCT_NAME := lineage_rock
+PRODUCT_BRAND := POCO
+PRODUCT_MODEL := 22071219CG
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi

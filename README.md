@@ -1,4 +1,4 @@
-# Android device tree for alps missi (missi)
+# Android device tree for POCO M5 (rock)
 
 ```
 #

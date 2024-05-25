@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_missi.mk
+    $(LOCAL_DIR)/lineage_rock.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_missi-user \
-    lineage_missi-userdebug \
-    lineage_missi-eng
+    lineage_rock-user \
+    lineage_rock-userdebug \
+    lineage_rock-eng
